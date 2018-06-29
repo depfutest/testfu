@@ -1,2 +1,6 @@
 source 'https://rubygems.org'
-gem 'rake'
+
+gemspec
+
+gem 'rake', '~> 10.0'
+gem 'minitest'
